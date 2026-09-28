@@ -1,2 +1,3 @@
-# Arch-Linux Custom VPN and Firewall Deployment Lab
-A deployment of a VPN and custom firewall using iptable/nftables on an Arch Linux System. It fully automates checks with scripts and documented configurations. It demonstrates Linux administration, networking security, and system hardening.
+# Linux Networking, Firewall, and Wireshark Guide
+Create a working Linux network and learn how computers actually communicate with each other. Configure IP addresses and gateways, connect your VM to the host machine, control traffic with firewall rules, test connectivity, and use Wireshark to see the packets moving across the network.
+
