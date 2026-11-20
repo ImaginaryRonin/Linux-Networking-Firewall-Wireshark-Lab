@@ -77,7 +77,7 @@ By completing this lab, the user will:
 | Software | Purpose |
 | --- | --- |
 | [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) | Creates, manages, and runs multiple virtual machines. |
-| [[CloudOS Stream 9](https://www.centos.org/download/) | Linux operating system used for networking, firewall configuration, and connectivity testing. |
+| [CloudOS Stream 9](https://www.centos.org/download/) | Linux operating system used for networking, firewall configuration, and connectivity testing. |
 
 <br>
 <br>
@@ -96,9 +96,15 @@ By completing this lab, the user will:
 <br>
 <br>
 
-# The Guide
 
-## Step 1: [First Major Task]
+
+
+
+
+
+# Part 1: Networking
+
+## Part 1.1: Identify the Windows Host Network
 [Brief explanation of this step and why it matters.]
 
 1.  
@@ -112,6 +118,189 @@ By completing this lab, the user will:
 
 <br>
 <br>
+
+
+
+## Part 1.2: Set Up VirtualBox Bridged Networking
+[Brief explanation of this step and why it matters.]
+
+1.  
+2.
+3.  <br>
+
+   [Screenshot if necessary] <br>
+   [Note if necessary] <br>
+   
+[Common Error 1: (#common-error-1-)  
+
+<br>
+<br>
+
+
+
+## Part 1.3: Examine Linux Network Interfaces and Connections
+[Brief explanation of this step and why it matters.]
+
+1.  
+2.
+3.  <br>
+
+   [Screenshot if necessary] <br>
+   [Note if necessary] <br>
+   
+[Common Error 1: (#common-error-1-)  
+
+<br>
+<br>
+
+
+
+## Part 1.4: Assign Static IPv4 Addressing
+[Brief explanation of this step and why it matters.]
+
+1.  
+2.
+3.  <br>
+
+   [Screenshot if necessary] <br>
+   [Note if necessary] <br>
+   
+[Common Error 1: (#common-error-1-)  
+
+<br>
+<br>
+
+
+
+## Part 1.5: Verify Network Connectivity and Routing
+[Brief explanation of this step and why it matters.]
+
+1.  
+2.
+3.  <br>
+
+   [Screenshot if necessary] <br>
+   [Note if necessary] <br>
+   
+[Common Error 1: (#common-error-1-)  
+
+<br>
+<br>
+
+
+
+
+
+# Part 2: Firewall
+
+## Part 2.1: Review Linux Firewall Configuration
+[Brief explanation of this step and why it matters.]
+
+1.  
+2.
+3.  <br>
+
+   [Screenshot if necessary] <br>
+   [Note if necessary] <br>
+   
+[Common Error 1: (#common-error-1-)  
+
+<br>
+<br>
+
+
+
+## Part 2.2: Block and Restore ICMP (Ping) Traffic
+[Brief explanation of this step and why it matters.]
+
+1.  
+2.
+3.  <br>
+
+   [Screenshot if necessary] <br>
+   [Note if necessary] <br>
+   
+[Common Error 1: (#common-error-1-)  
+
+<br>
+<br>
+
+
+
+## Part 2.3: Control TCP Port Access
+[Brief explanation of this step and why it matters.]
+
+1.  
+2.
+3.  <br>
+
+   [Screenshot if necessary] <br>
+   [Note if necessary] <br>
+   
+[Common Error 1: (#common-error-1-)  
+
+<br>
+<br>
+
+
+
+
+
+
+# Part 3: Wireshark
+
+## Part 3.1: Install Wireshark on Windows
+[Brief explanation of this step and why it matters.]
+
+1.  
+2.
+3.  <br>
+
+   [Screenshot if necessary] <br>
+   [Note if necessary] <br>
+   
+[Common Error 1: (#common-error-1-)  
+
+<br>
+<br>
+
+
+
+## Part 3.2: Capture Network Traffic
+[Brief explanation of this step and why it matters.]
+
+1.  
+2.
+3.  <br>
+
+   [Screenshot if necessary] <br>
+   [Note if necessary] <br>
+   
+[Common Error 1: (#common-error-1-)  
+
+<br>
+<br>
+
+
+
+## Part 3.3: Analyze Captured Packets
+[Brief explanation of this step and why it matters.]
+
+1.  
+2.
+3.  <br>
+
+   [Screenshot if necessary] <br>
+   [Note if necessary] <br>
+   
+[Common Error 1: (#common-error-1-)  
+
+<br>
+<br>
+
+
+
+
 
 
 # Bonus Steps
