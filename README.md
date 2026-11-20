@@ -86,12 +86,32 @@ By completing this lab, the user will:
 
 | Term | Meaning |
 | --- | --- |
-| [Term 1] | [Simple Explanation]. |
-| [Term 2] | [Simple Explanation]. |
-| [Term 3] | [Simple Explanation]. |
-| [Term 4] | [Simple Explanation]. |
-| [Term 5] | [Simple Explanation]. |
-| [Term 6] | [Simple Explanation]. |
+| Network Interface | . |
+| NAT | . |
+| Bridged Adapter | . |
+| IPv4 Address | . |
+| Private IP Address | . |
+| Static Address | . |
+| Subnet Mask | . |
+| CIDR | . |
+| Default Gateway | . |
+| DHCP | . |
+| DNS | . |
+| MAC Address | . |
+| NetworkManager | . |
+| Connection Profile | . |
+| Routing Table | . |
+| ICMP | . |
+| TCP | . |
+| Port | . |
+| Firewall | . |
+| Firewall Zone | . |
+| firewalld | . |
+| ARP | . |
+| Packet | . |
+| Wireshark | . |
+| Packet Capture | . |
+| Display Filter | . |
 
 <br>
 <br>
