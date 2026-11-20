@@ -40,7 +40,7 @@ By completing this lab, the user will:
 | [Skills Achieved](#skills-achieved) | Summary of the technical skills demonstrated. |
 | [System Requirements](#system-requirements) | Hardware and software requirements. |
 | [Key Terms](#key-terms) | Explanation of important technical terms used. |
-|     |   t  |
+|     |   ||  |
 | [Networking](#networking) | Configure IP addressing, routing, and communication between Windows and Linux. |
 | [Part 1.1: Identify the Windows Host Network](#part-11-inspect-the-windows-host-network) | Find the Windows host's IPv4 address, subnet mask, default gateway, and active network adapter. |
 | [Part 1.2: Set Up VirtualBox Bridged Networking](#part-12-set-up-virtualbox-bridged-networking) | Configure the virtual machine's network adapter to connect to the same local network as the Windows host. |
