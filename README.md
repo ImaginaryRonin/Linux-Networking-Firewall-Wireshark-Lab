@@ -76,8 +76,8 @@ By completing this lab, the user will:
 ### Software Requirements
 | Software | Purpose |
 | --- | --- |
-| [Software 1](https://www.link.com) | [Explanation]. |
-| [Software 2](https://www.link.com) | [Explanation]. |
+| [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) | Creates, manages, and runs multiple virtual machines. |
+| [[CloudOS Stream 9](https://www.centos.org/download/) | Linux operating system used for networking, firewall configuration, and connectivity testing. |
 
 <br>
 <br>
