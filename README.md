@@ -41,6 +41,7 @@ By completing this lab, the user will:
 | [System Requirements](#system-requirements) | Hardware and software requirements. |
 | [Key Terms](#key-terms) | Explanation of important technical terms used. |
 |     |     |
+|     |     |
 | [Networking](#networking) | Configure IP addressing, routing, and communication between Windows and Linux. |
 | [Part 1.1: Identify the Windows Host Network](#part-11-inspect-the-windows-host-network) | Find the Windows host's IPv4 address, subnet mask, default gateway, and active network adapter. |
 | [Part 1.2: Set Up VirtualBox Bridged Networking](#part-12-set-up-virtualbox-bridged-networking) | Configure the virtual machine's network adapter to connect to the same local network as the Windows host. |
@@ -48,10 +49,12 @@ By completing this lab, the user will:
 | [Part 1.4: Assign Static IPv4 Addressing](#part-14-assign-static-ipv4-addressing) | Configure a persistent IPv4 address, subnet prefix, default gateway, and DNS settings for the Linux VM. |
 | [Part 1.5: Verify Network Connectivity and Routing](#part-15-verify-network-connectivity-and-routing) | Test gateway access, DNS resolution, internet connectivity, and communication between Windows and Linux in both directions. |
 |     |     |
+|     |     |
 | [Firewall](#firewall) | Manage Linux firewall rules and test how they affect network communication. |
 | [Part 2.1: Review Linux Firewall Configuration](#part-21-review-linux-firewall-configuration) | Check the status of `firewalld` and identify active firewall zones, allowed services, open ports, and existing rules. |
 | [Part 2.2: Block and Restore ICMP (Ping) Traffic](#part-22-block-and-restore-icmp-ping-traffic) | Use firewall rules to block incoming ping requests from Windows, test the results, and restore communication. |
 | [Part 2.3: Control TCP Port Access](#part-23-control-tcp-port-access) | Create a temporary HTTP server and test how allowing or blocking a TCP port affects connections from Windows. |
+|     |     |
 |     |     |
 | [Wireshark](#wireshark) | Capture and analyze network packets to understand how systems communicate. |
 | [Part 3.1: Install Wireshark on Windows](#part-31-install-wireshark-on-windows) | Install Wireshark and Npcap, then select the correct network adapter to prepare for packet capture. |
